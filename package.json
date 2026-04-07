@@ -4,14 +4,16 @@
     "cors": "2.8.5",
     "dotenv": "16.0.3",
     "express": "4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.3.2",
+    "helmet": "^8.1.0",
     "mongoose": "6.8.0"
   },
   "description": "",
   "devDependencies": {
     "nodemon": "2.0.20"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "license": "ISC",
   "main": "index.js",
   "name": "backend",
